@@ -16,3 +16,4 @@ Some credits
 ------------
 1)http://www.petrikainulainen.net/spring-data-jpa-tutorial/
 2)http://g00glen00b.be/spring-data-angular/
+3)https://github.com/gregorriegler/babdev-spring/tree/master/spring-data-rest
